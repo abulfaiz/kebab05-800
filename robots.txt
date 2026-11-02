@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abulfaiz.github.io/kebab-05-800/sitemap.xml
